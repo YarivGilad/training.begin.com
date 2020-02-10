@@ -12,7 +12,6 @@ Leverage the Deno runtime to render JSX on the backend.
 ```bash
 npm init @architect --runtime ./mydeno
 cd mydeno
-npm init -f
 npm install @architect/sandbox 
 npm install @rollup/plugin-typescript
 npm install @types/react
